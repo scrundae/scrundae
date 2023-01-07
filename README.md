@@ -5,6 +5,7 @@
 - 1. My WinForms game "digMoundGame"
 - 2. My Unity Game (no info yet!)
 - ❓ No, digMoundGame is not abandoned. I'm working very hard on 0.2 okay?
+- ⏸️ TeaK Builder is not my main priority and I'm not working on it right now, but I'll bring it back soon.
 
 <!---
 scrundae/scrundae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
